@@ -1,4 +1,4 @@
-function stretchingcylindermodified
+function present problem
     % Parameters
     global S Re Ha B Br Gr Gm Pr  Nb Nt Pe Le 
     
